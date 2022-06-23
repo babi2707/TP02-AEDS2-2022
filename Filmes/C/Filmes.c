@@ -18,7 +18,7 @@
 #define MAX_FIELD_SIZE      100
 #define MAX_KEYWORDS        20
 #define MAX_LINE_SIZE       250
-#define FDR_PREFIX          "./tmp/filmes/"
+#define FDR_PREFIX          "/tmp/filmes/"
 // --------------------------------------------------------------
 
 
